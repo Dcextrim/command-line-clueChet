@@ -1,6 +1,6 @@
 Detective's Initial Report:
 
-The Doctor left an anonymous tip about unusual activity at the art room.
+During the morning roll call, The Teacher reported odd footprints leading to the shops.
 
 This seems like a good place to start our investigation. Remember to:
 - Use 'cd' to move between locations

@@ -1,16 +1,15 @@
 # Detective's Notebook
 
 ## Suspects
+- [ ] The Florist
+- [ ] The Carpenter
 - [ ] The Baker
-- [ ] The Shopkeeper
-- [ ] The Police Officer
 
 ## Weapons
-- [ ] Brass Candlestick
-- [ ] Paint Brush
-- [ ] Crystal Vase
+- [ ] Old Key
+- [ ] Magnifying Glass
+- [ ] Silver Watch
 
 ## Notes
-*Use this space to record your findings and deductions...*
-
-Location of the crime is still unknown - the room must have been empty when it happened...
+*Use this space to record your findings and deduction*
+During the morning roll call, The Teacher reported odd footprints leading to the shops.
