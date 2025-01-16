@@ -6,7 +6,7 @@
 - [ ] The Baker
 
 ## Weapons
-- [ ] Old Key
+- [x] Old Key
 - [ ] Magnifying Glass
 - [ ] Silver Watch
 
@@ -15,3 +15,6 @@
 1)During the morning roll call, The Teacher reported odd footprints leading to the shops. (Ir a shops)
 
 2)A trail of scattered papers points deeper into the cafe.(Ir a Cafe)
+
+3)You overhear someone mentioning suspicious noises from the market. (Ir al market)
+ -Weapon found - Old key (En cafe)
