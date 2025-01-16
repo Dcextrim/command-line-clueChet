@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Florist
 - [ ] The Carpenter
-- [ ] The Baker
+- [x] The Baker
 
 ## Weapons
 - [x] Old Key
@@ -18,3 +18,4 @@
 
 3)You overhear someone mentioning suspicious noises from the market. (Ir al market)
  -Weapon found - Old key (En cafe)
+ -Baker
