@@ -22,3 +22,12 @@
  -Baker
 
 4)Go back and check the gazebo in the park. (Ir a Gazeebo)
+
+5)You can feel it - this is where it happened. The undisturbed state of the room confirms your suspicions.
+
+Your careful detective work has paid off. The empty state of this room matches
+witness accounts - no one was around when the crime occurred. This must be
+where the murderer carried out their plan!
+
+Make sure to document this discovery in your notebook.md file along with your
+other findings about the weapon and suspect.
